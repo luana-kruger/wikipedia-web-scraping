@@ -1,2 +1,3 @@
-# wikipedia-web-scraping
-Este projeto implementa um script Python para automatizar a aquisição de dados de uma página da Wikipedia. Utiliza Selenium para navegar até a página, BeautifulSoup para extrair tabelas relevantes do conteúdo HTML, e pandas para processar e analisar os dados extraídos.
+# WebScraper Wikipedia
+
+O projeto envolve a criação de um script Python para a aquisição automatizada de dados de uma página da Wikipedia, essencial para uma análise de dados. Devido à ausência de uma API direta da Wikipedia para acesso aos dados, a solução adotada inclui o uso de Selenium para navegar até a página desejada e salvar o conteúdo HTML. Em seguida, o BeautifulSoup é empregado para extrair a tabela relevante do HTML, e os dados extraídos são processados com pandas para possibilitar análises posteriores.
