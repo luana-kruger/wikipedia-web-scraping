@@ -1,0 +1,5 @@
+# Cache python
+*.pyc
+
+# Scripts
+script_tests.ipynb
